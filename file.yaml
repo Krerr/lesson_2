@@ -1,0 +1,8 @@
+dist:
+  first: 1
+  second: 2
+list:
+- one
+- two
+- tree
+number: 4
